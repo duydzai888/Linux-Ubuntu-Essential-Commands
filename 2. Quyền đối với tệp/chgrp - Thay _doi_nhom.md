@@ -1,11 +1,16 @@
-﻿# chgrp - Thay đổi nhóm
+# chgrp - Thay đổi nhóm
 ## Menu
+[1. Ghi chú](#GhiChu)
 
+[2. Các ví dụ](#ViDu)
+
+[3. Lệnh trợ giúp](#LenhTroGiup)
 
 <a name="GhiChu"></a>
 ### 1. Ghi chú
 Các `chgrp` lệnh làm thay đổi nhóm các tập tin và thư mục.
 
+<a name="ViDu"></a>
 ### 2. Các ví dụ
 - Thay đổi nhóm "folder1" thành "group1".
 ```
@@ -21,6 +26,7 @@ $ chgrp -R DOMAIN\\group2 folder1/
 $ chgrp -R "DOMAIN\group2" folder1/
 ```
 
+<a name="LenhTroGiup"></a>
 ### 3. Lệnh trợ giúp
 - Các tùy chọn sau có thể được sử dụng:
 ```
